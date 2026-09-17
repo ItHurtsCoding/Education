@@ -1,0 +1,284 @@
+source,title,company,work_format,requirements,salary
+Habr Career,Аналитик данных - стажер (Data Governance),МТС Банк,Офис / Гибрид,SQL,140000
+Habr Career,Эксперт Data Science,МТС Банк,Офис / Гибрид,"Python, Алгоритмы и структуры данных",270000
+Habr Career,Стажер в Data направление,КОРУС Консалтинг,Офис / Гибрид,"SQL, Python, Базы данных, Анализ данных",220000
+Habr Career,DevOps-инженер (стажер),МТС Банк,Офис / Гибрид,"Linux, DevOps, Bash",180000
+Habr Career,JavaScript разработчик (стажер),Aston,Офис / Гибрид,"JavaScript, TypeScript, React, HTML, CSS, Адаптивная верстка, Кроссбраузерная верстка, Веб-разработка, SCSS, Redux",150000
+Habr Career,Стажёр в управление проектами,ИТ-компания «Лоция»,Офис / Гибрид,"Работа в команде, Управление проектами, PMBOK",280000
+Habr Career,Ночной стажер технической поддержки,IBS,Офис / Гибрид,Техническая поддержка,140000
+Habr Career,Стажер-инженер данных BI (Data Engineer),ИТ-компания «Лоция»,Офис / Гибрид,"SQL, Python, Алгоритмы и структуры данных",260000
+Habr Career,Стажер AI-разработчик,AGIMA,Офис / Гибрид,"Git, Linux, Python, LLM",300000
+Habr Career,Data Scientist,Лига Цифровой Экономики,Офис / Гибрид,Python,180000
+Habr Career,Стажер Специалист центра мониторинга информационной безопасности,ИТ-компания «Лоция»,Офис / Гибрид,"Информационная безопасность, Администрирование Windows, TCP",180000
+Habr Career,Java разработчик с нуля (стажер),Aston,Офис / Гибрид,"Java, Hibernate, MySQL, PostgreSQL, Git, Java Spring Framework, ООП, SQL, Apache Kafka, Kubernetes",от 52 000 ₽
+Habr Career,"Младший разработчик (Big Data, хранилище данных)",IBS,Офис / Гибрид,SQL,от 30 000 до 40 800 ₽
+Habr Career,Системный аналитик (Junior/Junior+),Солар,Офис / Гибрид,"Git, Английский язык, Системный анализ, Техническая документация",310000
+Habr Career,Эксперт Data Science,МТС Банк,Офис / Гибрид,"Python, Алгоритмы и структуры данных",140000
+Habr Career,Data Scientist,Лига Цифровой Экономики,Офис / Гибрид,Python,270000
+Habr Career,Data Engineer/ MLOpsE,Bell Integrator,Офис / Гибрид,"Python, Apache Hadoop, DWH, Apache Airflow, Apache Spark, Greenplum, ETL, CI/CD",220000
+Habr Career,Data Scientist,Top Selection,Офис / Гибрид,Python,180000
+Habr Career,Data Engineer,Альфа-Банк,Офис / Гибрид,"Python, Apache Hadoop, Apache Spark, Apache Airflow, Apache Kafka, FastAPI",150000
+Habr Career,Data engineer,Top Selection,Офис / Гибрид,Java,280000
+Habr Career,Data engineer,Top Selection,Офис / Гибрид,Python,140000
+Habr Career,Data инженер,Action tech,Офис / Гибрид,"Python, SQL, Apache Airflow, Greenplum, Apache Superset, PostgreSQL",260000
+Habr Career,Data Engineering Manager,Циан,Офис / Гибрид,"DWH, Apache Hadoop, Python, Apache Spark, Greenplum",300000
+Habr Career,Data Engineer,Top Selection,Офис / Гибрид,"Apache Hadoop, ETL",180000
+Habr Career,MLOps | DataOps,GRI,Офис / Гибрид,"DWH, PostgreSQL, ClickHouse, Apache Airflow",180000
+Habr Career,Разработчик GreenData,Top Selection,Офис / Гибрид,"SQL, Алгоритмы, Groovy",310000
+Habr Career,"Data Analyst (Big Data, ETL, Python, SQL)",Группа Rubytech,Офис / Гибрид,"Базы данных, Python, SQL, Большие данные, Анализ данных, ETL, Greenplum",280000
+Habr Career,Data analyst,ИТ-компания «Лоция»,Офис / Гибрид,PostgreSQL,110000
+Habr Career,Data Scientist ,Фарпост,Офис / Гибрид,"Deep Learning, SQL, Python",150000
+Habr Career,Аналитик данных - стажер (Data Governance),МТС Банк,Офис / Гибрид,SQL,310000
+Habr Career,Data Steward/Менеджер по данным,"АстраЗенека, Россия и Евразия",Офис / Гибрид,"Базы данных, Алгоритмы и структуры данных",100000
+Habr Career,Data Engineer (команда RecSys),Okko,Офис / Гибрид,"Apache Spark, Apache Airflow, ClickHouse, SQL, Python",290000
+Habr Career,Middle / Senior Data Engineer DWH,CHOICEIT,Офис / Гибрид,"Python, PostgreSQL, Greenplum, DWH, Apache Spark, ETL, Apache Airflow, Apache Kafka",280000
+Habr Career,Middle / Senior Data Engineer DWH,CHOICEIT,Офис / Гибрид,"Python, PostgreSQL, Greenplum, Apache Spark, Apache Airflow, DWH, ETL, Apache Kafka",90000
+Habr Career,Ищем Data Scientist,Top Selection,Офис / Гибрид,"Python, SQL",310000
+Habr Career,Стажер в Data направление,КОРУС Консалтинг,Офис / Гибрид,"SQL, Python, Базы данных, Анализ данных",190000
+Habr Career,Инженер поддержки данных (Data Steward),Cloud.ru,Офис / Гибрид,"PostgreSQL, Microsoft SQL",130000
+Habr Career,Стажер-инженер данных BI (Data Engineer),ИТ-компания «Лоция»,Офис / Гибрид,"SQL, Python, Алгоритмы и структуры данных",90000
+Habr Career,BI-разработчик / Data-инженер / Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,"SQL, Python, Apache Airflow, Qlik Sense, QlikView, PowerBI, Tableau",280000
+Habr Career,Data-инженер,Джетлин,Офис / Гибрид,"Python, Pandas, NumPy, Scikit-learn, StatsModels, MatPlotLib",80000
+Habr Career,Data Scientist,Top Selection,Офис / Гибрид,Python,190000
+Habr Career,Data Scientist,МТС Банк,Офис / Гибрид,"SQL, Python",290000
+Habr Career,Data - аналитик,Top Selection,Офис / Гибрид,SQL,190000
+Habr Career,ML-инженер,Bell Integrator,Офис / Гибрид,"Docker, Apache Airflow, Базы данных, MySQL, PostgreSQL, NoSQL",240000
+Habr Career,Data Scientist (Аудиоаналитика) офис в г. Новосибирск,ROBOTMIA,Офис / Гибрид,"Алгоритмы и структуры данных, Docker, Scikit-learn, TensorFlow, ClickHouse, PyTorch, Pandas, Python, SQL",170000
+Habr Career,MLOps Engineer/Solution Architect,Bell Integrator,Офис / Гибрид,"Python, Apache Hadoop, Apache Kafka, CI/CD, Oracle, PostgreSQL, RabbitMQ, Greenplum, Jenkins",230000
+Habr Career,Продуктовый аналитик в Путешествия,Яндекс,Офис / Гибрид,"SQL, Python",220000
+Habr Career,Data Engineer real-time,PARI,Офис / Гибрид,"Apache Airflow, Apache Flink, ClickHouse, SQL, Python, Apache Kafka",220000
+Habr Career,Data scientist / ML-инженер,IBS,Офис / Гибрид,"LLM, NLP",260000
+Habr Career,Разработчик ETL / Data Engineer,Онлайн-кинотеатр Иви,Офис / Гибрид,"Git, ETL, Apache Airflow, ClickHouse, NoSQL, SQL, Python",190000
+Habr Career,DevOps engineer / System engineer,ЛАНИТ,Офис / Гибрид,"CI/CD, Linux, Kubernetes, Базы данных",300000
+Habr Career,Аналитик ML-моделей / Специалист по контролю качества (валидации) ML-данных,ЛАНИТ,Офис / Гибрид,Python,270000
+Habr Career,"Scala Developer (Hadoop, ETL)",Bell Integrator,Офис / Гибрид,"Scala, Apache Hadoop",100000
+Habr Career,Data QA / Инженер тестирования данных,БЮРО 1440,Офис / Гибрид,"DWH, Docker, Apache Airflow, ETL, Apache Spark, ClickHouse, SQL, Python",120000
+Habr Career,"Младший разработчик (Big Data, хранилище данных)",IBS,Офис / Гибрид,SQL,260000
+Habr Career,Go Developer,Vital Partners,Офис / Гибрид,"Golang, PostgreSQL",140000
+Habr Career,Go Architect / Solution Architect,Vital Partners,Офис / Гибрид,Golang,280000
+Habr Career,Инженер-программист 1С,Oxygen Data Centers & Clouds,Офис / Гибрид,Разработка под 1С,160000
+Habr Career,Дизайнер продукта,Oxygen Data Centers & Clouds,Офис / Гибрид,"Figma Design, Scrum, UI/UX дизайн",140000
+Habr Career,Инженер поддержки клиентов облачной платформы,Oxygen Data Centers & Clouds,Офис / Гибрид,"VMWare ESXi, Vmware vSphere, Linux, Unix, Администрирование Windows",250000
+Habr Career,Pre-sale инженер (Cloud),Oxygen Data Centers & Clouds,Офис / Гибрид,"VMware, Hyper-V, Citrix",110000
+Habr Career,Системный администратор,Oxygen Data Centers & Clouds,Офис / Гибрид,"Администрирование Windows, Linux, Active directory",210000
+Habr Career,Team Lead C# (.net),Action tech,Офис / Гибрид,"Microsoft SQL, RabbitMQ, .NET, PostgreSQL, Проектирование архитектуры приложений, Apache Kafka, .NET Core, Управление людьми, Построение команды",250000
+Habr Career,Системный аналитик DWH / Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,"SQL, DWH",160000
+Habr Career,Главный дата-инженер,Альфа-Банк,Офис / Гибрид,"Python, ClickHouse, CI/CD, Apache Kafka, Apache Spark, ETL, Машинное обучение",280000
+Habr Career,Middle/Senior DevOps Engineer [МТС Веб Сервисы],МТС Web Services,Офис / Гибрид,"Kubernetes, Terraform",90000
+Habr Career,IT Project Manager (BI Stream),Marfatech,Офис / Гибрид,"Agile, Jira, Confluence",270000
+Habr Career,Бизнес-аналитик,Cloud.ru,Офис / Гибрид,"SQL, LLM",220000
+Habr Career,Entry-level Python Developer (CAD Automation),Storygold AI,Офис / Гибрид,Python,140000
+Habr Career,Разработчик Hadoop ,ГНИВЦ,Офис / Гибрид,"Java, Scala, Linux, Apache Spark, Apache Hadoop",190000
+Habr Career,Руководитель направления позиционирования продукта,Cloud.ru,Офис / Гибрид,"DWH, LLM",150000
+Habr Career,Middle+ Product Analyst (Запись в клиники),СберЗдоровье,Офис / Гибрид,"SQL, Python",220000
+Habr Career,Системный администратор,Лига Цифровой Экономики,Офис / Гибрид,Apache Hadoop,100000
+Habr Career,Lead Linux Kernel Developer / Ведущий инженер-программист (TATLIN.UNIFIED),YADRO,Офис / Гибрид,"Linux, Алгоритмы, Алгоритмы и структуры данных, Linux kernel, C",210000
+Habr Career,MLOps Engineer/Лидер команды (ИТ-лидер команды),Aston,Офис / Гибрид,"Python, Большие данные, Apache Hadoop, Apache Spark, SQL, Базы данных",240000
+Habr Career,MLOps Engineer,Aston,Офис / Гибрид,LLM,110000
+Habr Career,IOS-разработчик,Okko,Офис / Гибрид,"Objective-С, Swift",250000
+Habr Career,Ведущий системный аналитик,МТС Банк,Офис / Гибрид,"REST, SQL, SOAP, UML, BPMN",150000
+Habr Career,Директор по разработке платформы машинного обучения,МегаФон,Офис / Гибрид,"Управление людьми, Построение команды, Управление разработкой",110000
+Habr Career,Аналитик DWH ,Top Selection,Офис / Гибрид,Базы данных,90000
+Habr Career,Ведущий Java-разработчик,БФТ - Холдинг,Офис / Гибрид,"Java, Spring Boot, RabbitMQ, Git, PostgreSQL",130000
+Habr Career,Аналитик-разработчик (A/B тесты),Вкусно - и точка,Офис / Гибрид,SQL,290000
+Habr Career,"iOS Developer (Москва, гибрид)",Bell Integrator,Офис / Гибрид,"Swift, UIKit, Objective-С",170000
+Habr Career,Principal backend engineer / Python,YoloPrice,Офис / Гибрид,"Python, REST, CI/CD, Базы данных, Разработка программного обеспечения, Google Cloud Platform, Redis",110000
+Habr Career,AI исследователь,Top Selection,Офис / Гибрид,"Python, NLP, LLM, LangChain, SQL",290000
+Habr Career,Инженер данных ,CINIMEX,Офис / Гибрид,"SQL, Python, Алгоритмы и структуры данных, PostgreSQL, Базы данных, Apache Kafka",250000
+Habr Career,CTO / Технический директор,НЛ Континент,Офис / Гибрид,"Управление разработкой, Agile",190000
+Habr Career,Архитектор 1С,Top Selection,Офис / Гибрид,"1C: ERP, Разработка под 1С",90000
+Habr Career,Senior QA AI-Продуктов (Python),СберЗдоровье,Офис / Гибрид,"Java, Python",170000
+Habr Career,Java разработчик (СОПББ),ИТ-Холдинг Т1,Офис / Гибрид,Java,110000
+Habr Career,Аналитик DWH,Джетлин,Офис / Гибрид,"SQL, BI, ClickHouse, Tableau, DWH, Greenplum",210000
+Habr Career,Scrum-мастер,"АстраЗенека, Россия и Евразия",Офис / Гибрид,"Agile, Scrum, Управление проектами",230000
+Habr Career,Дата аналитик,Bell Integrator,Офис / Гибрид,"SQL, Python, PostgreSQL",220000
+Habr Career,Java разработчик со знанием платформы ЦФТ/ Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,Java,150000
+Habr Career,Аналитик данных,Bell Integrator,Офис / Гибрид,"SQL, Apache Hadoop, DWH, Microsoft Excel, Анализ данных",210000
+Habr Career,SEO / GEO Specialist — SORTAGE,Sortage,Офис / Гибрид,"SEO-оптимизация, Разработка SEO-стратегии, Google Search Console, Яндекс.Метрика, Screaming Frog, Ahrefs, Semrush, Notion",300000
+Habr Career,Разработчик DWH и BI ЕХД Oracle,МТС Банк,Офис / Гибрид,"DWH, Oracle PL/SQL, SQL, Oracle",150000
+Habr Career,Java Developer,ITK academy,Офис / Гибрид,"Java, Kotlin, Git, Docker, Java Spring Framework, Apache Kafka, RabbitMQ",280000
+Habr Career,SRE инженер (Kafka),Bell Integrator,Офис / Гибрид,"Linux, Apache Kafka, Kubernetes",230000
+Habr Career,DevOps-инженер (стажер),МТС Банк,Офис / Гибрид,"Linux, DevOps, Bash",200000
+Habr Career,Аналитик DWH,Лига Цифровой Экономики,Офис / Гибрид,"SQL, DWH",250000
+Habr Career,Frontend-разработчик,МТС Банк,Офис / Гибрид,"React, HTML, TypeScript",220000
+Habr Career,"Старший менеджер продукта, Москва",VK,Офис / Гибрид,"Управление проектами, Построение команды, Управление продуктами, A/B тестирование",280000
+Habr Career,Специалист по кибербезопасности AI/LLM-решений,СберЗдоровье,Офис / Гибрид,LLM,310000
+Habr Career,ML Lead,CHOICEIT,Офис / Гибрид,"NumPy, Python, PyTorch, Машинное обучение",200000
+Habr Career,.NET разработчик / Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,".NET, C#, .NET Core, SQL",160000
+Habr Career,Продуктовый аналитик,СОГАЗ,Офис / Гибрид,"SQL, Python",220000
+Habr Career,Middle/Senior PHP-разработчик (Laravel + высоконагруженные системы),RSD,Офис / Гибрид,"PHP, RabbitMQ, PostgreSQL, ClickHouse, PostGIS, Laravel",200000
+Habr Career,DevOps-инженер,Bell Integrator,Офис / Гибрид,"DevOps, SRE",80000
+Habr Career,Технический продуктовый маркетолог / CRM-маркетолог,ANCOR,Офис / Гибрид,"Email маркетинг, Интернет маркетинг",140000
+Habr Career,Технический продуктовый маркетолог / CRM-маркетолог,ANCOR,Офис / Гибрид,"Email маркетинг, Интернет маркетинг",160000
+Habr Career,Технический продуктовый маркетолог / CRM-маркетолог,ANCOR,Офис / Гибрид,"Интернет маркетинг, Работа в команде",310000
+Habr Career,Старший Java/Kotlin разработчик,МТС Банк,Офис / Гибрид,"Kotlin, Spring Boot, Java, SQL, Apache Kafka",80000
+Habr Career,Лидер продукта/СРО цифровых витрин Yota,МегаФон,Офис / Гибрид,Управление продуктами,190000
+Habr Career,Архитектор по обеспечению цифровых инноваций (LLM),МегаФон,Офис / Гибрид,LLM,150000
+Habr Career,Аналитик КХД,Bell Integrator,Офис / Гибрид,"SQL, Python, ETL, DWH",310000
+Habr Career,"Python Developer (AI,ML Москва)",Bell Integrator,Офис / Гибрид,"Python, LLM, LangChain",180000
+Habr Career,Младший growth-маркетолог,ANCOR,Офис / Гибрид,"Работа в команде, Информационные технологии",260000
+Habr Career,Младший growth-маркетолог,ANCOR,Офис / Гибрид,"Работа в команде, Информационные технологии",240000
+Habr Career,Backend-разработчик php (yii2),ТТК Диджитал,Офис / Гибрид,"PHP, Высоконагруженные системы, ООП, PostgreSQL, Oracle, Docker, Swagger, Разработка CRM, Базы данных, JavaScript",150000
+Habr Career,Лидер разработки в команду расчетных продуктов B2B,ДОМ.РФ,Офис / Гибрид,Java,100000
+Habr Career,Системный администратор по IT инфраструктуре,Лига Цифровой Экономики,Офис / Гибрид,"Nginx, Linux, Информационные технологии, Kubernetes, Apache Kafka",100000
+Habr Career,Аналитик данных ,CINIMEX,Офис / Гибрид,Разработка ТЗ,80000
+Habr Career,NLP-разработчик в Алису,Яндекс,Офис / Гибрид,NLP,120000
+Habr Career,Техлид в команду высокоточных цифровых дорожных карт,Navio,Офис / Гибрид,"Python, Алгоритмы и структуры данных, Большие данные, Машинное обучение, Deep Learning, Нейронные сети, PyTorch, Компьютерное зрение",170000
+Habr Career,Senior Java-разработчик (Integration),Лига Цифровой Экономики,Офис / Гибрид,"Spring Boot, Docker, Java, Kubernetes, Apache Kafka, Jenkins",140000
+Habr Career,"Старший продуктовый аналитик, Москва",VK,Офис / Гибрид,"SQL, Python",160000
+Habr Career,Дата инженер/Инженер по данным,Bell Integrator,Офис / Гибрид,"SQL, Python, Apache Spark, Apache Hadoop",140000
+Habr Career,Разработчик на Java/Kotlin в Финтех Яндекса,Яндекс,Офис / Гибрид,"Java, Apache Kafka, PostgreSQL, Kubernetes, Redis, Kotlin, ClickHouse, Greenplum",160000
+Habr Career,Архитектор стрима,IT_One,Офис / Гибрид,"Apache Hadoop, Apache Spark, ETL, REST, Apache Kafka, CI/CD",150000
+Habr Career,ML-инженер,АМА,Офис / Гибрид,"Python, Git, Docker, SQL",190000
+Habr Career,Аналитик BI/SQL,СОГАЗ,Офис / Гибрид,"QlikView, SQL, Python",90000
+Habr Career,Ресерчер,Vital Partners,Офис / Гибрид,Английский язык,80000
+Habr Career,Тимлид разработки в команду DWH,Авито,Офис / Гибрид,"Java, Apache Flink, Apache Kafka, DWH, Python, Kubernetes",230000
+Habr Career,1С Аналитик,Aston,Офис / Гибрид,"1C: ERP, Высоконагруженные системы",300000
+Habr Career,Machine learning Engineer,Джетлин,Офис / Гибрид,"Kubernetes, Apache Airflow, Redis, Prometheus, LLM, NLP, A/B тестирование, Python",300000
+Habr Career,Платформенный SRE,Cloud.ru,Офис / Гибрид,CI/CD,310000
+Habr Career, .Net Developer,Aston,Офис / Гибрид,"Apache Kafka, Microsoft SQL Server, ASP.NET WEB API, .NET",120000
+Habr Career,BI Developer/BI разработчик,Aston,Офис / Гибрид,"SQL, Базы данных, Python, Pandas, Tableau, PowerBI",100000
+Habr Career,Java Developer (AI / GenAI),СберСпасибо,Офис / Гибрид,JavaScript,190000
+Habr Career,1C Developer,Aston,Офис / Гибрид,Разработка под 1С,150000
+Habr Career,Solution Architect,"АстраЗенека, Россия и Евразия",Офис / Гибрид,"Docker, PostgreSQL, Redis, Kubernetes, REST",290000
+Habr Career,Golang-разработчик в команду инструментов продуктовой аналитики,Т-Банк,Офис / Гибрид,"PostgreSQL, Apache Kafka, Apache Cassandra, Prometheus, Golang, Kubernetes",100000
+Habr Career,ML Engineer,Aston,Офис / Гибрид,"Apache Kafka, Сеть хранения данных, REST, JSON, HTTP, WebSockets, RESTful API, Langgraph, Git, Docker",80000
+Habr Career, QA Automation Engineer (Python),Aston,Офис / Гибрид,"Python, Apache Kafka, Apache JMeter",100000
+Habr Career,Product Manager (Сегменты),СберЗдоровье,Офис / Гибрид,Проведение исследований,120000
+Habr Career,Аналитик,True Engineering,Офис / Гибрид,"SQL, PostgreSQL, Системный анализ, Бизнес аналитика, BPMN, UML, Анализ требований, ER-диаграммы",220000
+Habr Career,Senior AppSec-инженер,Золотое Яблоко,Офис / Гибрид,"OWASP, Тестирование на проникновение, Burp Suite",210000
+Habr Career,ML-инженер,ГНИВЦ,Офис / Гибрид,"Git, PostgreSQL, Python",100000
+Habr Career, Performance Engineer,Aston,Офис / Гибрид,"Apache JMeter, Linux",80000
+Habr Career,Solutions Architect,Aston,Офис / Гибрид,"Микросервисная архитектура, ArchiMate, Высоконагруженные системы, REST, Apache Kafka, RabbitMQ, SOAP, Java",120000
+Habr Career,"AI application security engineer, middle+/senior",Контур,Офис / Гибрид,"LLM, Linux",300000
+Habr Career,CTO «Интерактивные AI-сервисы»,СберЗдоровье,Офис / Гибрид,"RnD, LLM, Agentic systems ",210000
+Habr Career,Data Engineer/ MLOpsE,Bell Integrator,Офис / Гибрид,"Python, Apache Hadoop, DWH, Apache Airflow, Apache Spark, Greenplum, ETL, CI/CD",280000
+Habr Career,Data Scientist,Top Selection,Офис / Гибрид,Python,от 300 000 до 320 000 ₽
+Habr Career,Data Engineer,Альфа-Банк,Офис / Гибрид,"Python, Apache Hadoop, Apache Spark, Apache Airflow, Apache Kafka, FastAPI",110000
+Habr Career,Data engineer,Top Selection,Офис / Гибрид,Java,от 250 000 до 270 000 ₽
+Habr Career,Data engineer,Top Selection,Офис / Гибрид,Python,от 350 000 до 370 000 ₽
+Habr Career,Data инженер,Action tech,Офис / Гибрид,"Python, SQL, Apache Airflow, Greenplum, Apache Superset, PostgreSQL",150000
+Habr Career,Data Engineering Manager,Циан,Офис / Гибрид,"DWH, Apache Hadoop, Python, Apache Spark, Greenplum",310000
+Habr Career,Data Engineer,Top Selection,Офис / Гибрид,"Apache Hadoop, ETL",100000
+Habr Career,MLOps | DataOps,GRI,Офис / Гибрид,"DWH, PostgreSQL, ClickHouse, Apache Airflow",290000
+Habr Career,Разработчик GreenData,Top Selection,Офис / Гибрид,"SQL, Алгоритмы, Groovy",от 230 000 до 250 000 ₽
+Habr Career,"Data Analyst (Big Data, ETL, Python, SQL)",Группа Rubytech,Офис / Гибрид,"Базы данных, Python, SQL, Большие данные, Анализ данных, ETL, Greenplum",280000
+Habr Career,Data analyst,ИТ-компания «Лоция»,Офис / Гибрид,PostgreSQL,90000
+Habr Career,Data Scientist ,Фарпост,Офис / Гибрид,"Deep Learning, SQL, Python",310000
+Habr Career,Data Steward/Менеджер по данным,"АстраЗенека, Россия и Евразия",Офис / Гибрид,"Базы данных, Алгоритмы и структуры данных",190000
+Habr Career,Data Engineer (команда RecSys),Okko,Офис / Гибрид,"Apache Spark, Apache Airflow, ClickHouse, SQL, Python",130000
+Habr Career,Middle / Senior Data Engineer DWH,CHOICEIT,Офис / Гибрид,"Python, PostgreSQL, Greenplum, DWH, Apache Spark, ETL, Apache Airflow, Apache Kafka",90000
+Habr Career,Middle / Senior Data Engineer DWH,CHOICEIT,Офис / Гибрид,"Python, PostgreSQL, Greenplum, Apache Spark, Apache Airflow, DWH, ETL, Apache Kafka",280000
+Habr Career,Ищем Data Scientist,Top Selection,Офис / Гибрид,"Python, SQL",80000
+Habr Career,Инженер поддержки данных (Data Steward),Cloud.ru,Офис / Гибрид,"PostgreSQL, Microsoft SQL",190000
+Habr Career,BI-разработчик / Data-инженер / Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,"SQL, Python, Apache Airflow, Qlik Sense, QlikView, PowerBI, Tableau",290000
+Habr Career,Data-инженер,Джетлин,Офис / Гибрид,"Python, Pandas, NumPy, Scikit-learn, StatsModels, MatPlotLib",190000
+Habr Career,Data Scientist,Top Selection,Офис / Гибрид,Python,от 220 000 до 240 000 ₽
+Habr Career,Data Scientist,МТС Банк,Офис / Гибрид,"SQL, Python",240000
+Habr Career,Data - аналитик,Top Selection,Офис / Гибрид,SQL,от 250 000 до 270 000 ₽
+Habr Career,ML-инженер,Bell Integrator,Офис / Гибрид,"Docker, Apache Airflow, Базы данных, MySQL, PostgreSQL, NoSQL",170000
+Habr Career,Data Scientist (Аудиоаналитика) офис в г. Новосибирск,ROBOTMIA,Офис / Гибрид,"Алгоритмы и структуры данных, Docker, Scikit-learn, TensorFlow, ClickHouse, PyTorch, Pandas, Python, SQL",230000
+Habr Career,MLOps Engineer/Solution Architect,Bell Integrator,Офис / Гибрид,"Python, Apache Hadoop, Apache Kafka, CI/CD, Oracle, PostgreSQL, RabbitMQ, Greenplum, Jenkins",220000
+Habr Career,Продуктовый аналитик в Путешествия,Яндекс,Офис / Гибрид,"SQL, Python",220000
+Habr Career,Data Engineer real-time,PARI,Офис / Гибрид,"Apache Airflow, Apache Flink, ClickHouse, SQL, Python, Apache Kafka",260000
+Habr Career,Data scientist / ML-инженер,IBS,Офис / Гибрид,"LLM, NLP",190000
+Habr Career,Разработчик ETL / Data Engineer,Онлайн-кинотеатр Иви,Офис / Гибрид,"Git, ETL, Apache Airflow, ClickHouse, NoSQL, SQL, Python",300000
+Habr Career,DevOps engineer / System engineer,ЛАНИТ,Офис / Гибрид,"CI/CD, Linux, Kubernetes, Базы данных",270000
+Habr Career,Аналитик ML-моделей / Специалист по контролю качества (валидации) ML-данных,ЛАНИТ,Офис / Гибрид,Python,100000
+Habr Career,"Scala Developer (Hadoop, ETL)",Bell Integrator,Офис / Гибрид,"Scala, Apache Hadoop",120000
+Habr Career,Data QA / Инженер тестирования данных,БЮРО 1440,Офис / Гибрид,"DWH, Docker, Apache Airflow, ETL, Apache Spark, ClickHouse, SQL, Python",260000
+Habr Career,Go Developer,Vital Partners,Офис / Гибрид,"Golang, PostgreSQL",от 4000 до 4500 $
+Habr Career,Go Architect / Solution Architect,Vital Partners,Офис / Гибрид,Golang,до 8000 €
+Habr Career,Инженер-программист 1С,Oxygen Data Centers & Clouds,Офис / Гибрид,Разработка под 1С,140000
+Habr Career,Дизайнер продукта,Oxygen Data Centers & Clouds,Офис / Гибрид,"Figma Design, Scrum, UI/UX дизайн",280000
+Habr Career,Инженер поддержки клиентов облачной платформы,Oxygen Data Centers & Clouds,Офис / Гибрид,"VMWare ESXi, Vmware vSphere, Linux, Unix, Администрирование Windows",160000
+Habr Career,Pre-sale инженер (Cloud),Oxygen Data Centers & Clouds,Офис / Гибрид,"VMware, Hyper-V, Citrix",140000
+Habr Career,Системный администратор,Oxygen Data Centers & Clouds,Офис / Гибрид,"Администрирование Windows, Linux, Active directory",250000
+Habr Career,Team Lead C# (.net),Action tech,Офис / Гибрид,"Microsoft SQL, RabbitMQ, .NET, PostgreSQL, Проектирование архитектуры приложений, Apache Kafka, .NET Core, Управление людьми, Построение команды",110000
+Habr Career,Системный аналитик DWH / Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,"SQL, DWH",210000
+Habr Career,Главный дата-инженер,Альфа-Банк,Офис / Гибрид,"Python, ClickHouse, CI/CD, Apache Kafka, Apache Spark, ETL, Машинное обучение",250000
+Habr Career,Middle/Senior DevOps Engineer [МТС Веб Сервисы],МТС Web Services,Офис / Гибрид,"Kubernetes, Terraform",160000
+Habr Career,IT Project Manager (BI Stream),Marfatech,Офис / Гибрид,"Agile, Jira, Confluence",280000
+Habr Career,Бизнес-аналитик,Cloud.ru,Офис / Гибрид,"SQL, LLM",90000
+Habr Career,Entry-level Python Developer (CAD Automation),Storygold AI,Офис / Гибрид,Python,от 800 до 1200 $
+Habr Career,Разработчик Hadoop ,ГНИВЦ,Офис / Гибрид,"Java, Scala, Linux, Apache Spark, Apache Hadoop",270000
+Habr Career,Руководитель направления позиционирования продукта,Cloud.ru,Офис / Гибрид,"DWH, LLM",220000
+Habr Career,Middle+ Product Analyst (Запись в клиники),СберЗдоровье,Офис / Гибрид,"SQL, Python",140000
+Habr Career,Системный администратор,Лига Цифровой Экономики,Офис / Гибрид,Apache Hadoop,190000
+Habr Career,Lead Linux Kernel Developer / Ведущий инженер-программист (TATLIN.UNIFIED),YADRO,Офис / Гибрид,"Linux, Алгоритмы, Алгоритмы и структуры данных, Linux kernel, C",150000
+Habr Career,MLOps Engineer/Лидер команды (ИТ-лидер команды),Aston,Офис / Гибрид,"Python, Большие данные, Apache Hadoop, Apache Spark, SQL, Базы данных",220000
+Habr Career,MLOps Engineer,Aston,Офис / Гибрид,LLM,100000
+Habr Career,IOS-разработчик,Okko,Офис / Гибрид,"Objective-С, Swift",210000
+Habr Career,Ведущий системный аналитик,МТС Банк,Офис / Гибрид,"REST, SQL, SOAP, UML, BPMN",240000
+Habr Career,Директор по разработке платформы машинного обучения,МегаФон,Офис / Гибрид,"Управление людьми, Построение команды, Управление разработкой",110000
+Habr Career,Аналитик DWH ,Top Selection,Офис / Гибрид,Базы данных,от 250 000 до 270 000 ₽
+Habr Career,Ведущий Java-разработчик,БФТ - Холдинг,Офис / Гибрид,"Java, Spring Boot, RabbitMQ, Git, PostgreSQL",250000
+Habr Career,Аналитик-разработчик (A/B тесты),Вкусно - и точка,Офис / Гибрид,SQL,150000
+Habr Career,"iOS Developer (Москва, гибрид)",Bell Integrator,Офис / Гибрид,"Swift, UIKit, Objective-С",110000
+Habr Career,Principal backend engineer / Python,YoloPrice,Офис / Гибрид,"Python, REST, CI/CD, Базы данных, Разработка программного обеспечения, Google Cloud Platform, Redis",до 420 000 ₽
+Habr Career,AI исследователь,Top Selection,Офис / Гибрид,"Python, NLP, LLM, LangChain, SQL",от 260 000 до 300 000 ₽
+Habr Career,Инженер данных ,CINIMEX,Офис / Гибрид,"SQL, Python, Алгоритмы и структуры данных, PostgreSQL, Базы данных, Apache Kafka",90000
+Habr Career,CTO / Технический директор,НЛ Континент,Офис / Гибрид,"Управление разработкой, Agile",130000
+Habr Career,Архитектор 1С,Top Selection,Офис / Гибрид,"1C: ERP, Разработка под 1С",от 260 000 до 300 000 ₽
+Habr Career,Senior QA AI-Продуктов (Python),СберЗдоровье,Офис / Гибрид,"Java, Python",290000
+Habr Career,Java разработчик (СОПББ),ИТ-Холдинг Т1,Офис / Гибрид,Java,170000
+Habr Career,Аналитик DWH,Джетлин,Офис / Гибрид,"SQL, BI, ClickHouse, Tableau, DWH, Greenplum",110000
+Habr Career,Scrum-мастер,"АстраЗенека, Россия и Евразия",Офис / Гибрид,"Agile, Scrum, Управление проектами",290000
+Habr Career,Дата аналитик,Bell Integrator,Офис / Гибрид,"SQL, Python, PostgreSQL",250000
+Habr Career,Java разработчик со знанием платформы ЦФТ/ Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,Java,190000
+Habr Career,Аналитик данных,Bell Integrator,Офис / Гибрид,"SQL, Apache Hadoop, DWH, Microsoft Excel, Анализ данных",90000
+Habr Career,SEO / GEO Specialist — SORTAGE,Sortage,Офис / Гибрид,"SEO-оптимизация, Разработка SEO-стратегии, Google Search Console, Яндекс.Метрика, Screaming Frog, Ahrefs, Semrush, Notion",170000
+Habr Career,Разработчик DWH и BI ЕХД Oracle,МТС Банк,Офис / Гибрид,"DWH, Oracle PL/SQL, SQL, Oracle",110000
+Habr Career,Java Developer,ITK academy,Офис / Гибрид,"Java, Kotlin, Git, Docker, Java Spring Framework, Apache Kafka, RabbitMQ",от 75 000 ₽
+Habr Career,SRE инженер (Kafka),Bell Integrator,Офис / Гибрид,"Linux, Apache Kafka, Kubernetes",210000
+Habr Career,Аналитик DWH,Лига Цифровой Экономики,Офис / Гибрид,"SQL, DWH",230000
+Habr Career,Frontend-разработчик,МТС Банк,Офис / Гибрид,"React, HTML, TypeScript",220000
+Habr Career,"Старший менеджер продукта, Москва",VK,Офис / Гибрид,"Управление проектами, Построение команды, Управление продуктами, A/B тестирование",150000
+Habr Career,Специалист по кибербезопасности AI/LLM-решений,СберЗдоровье,Офис / Гибрид,LLM,210000
+Habr Career,ML Lead,CHOICEIT,Офис / Гибрид,"NumPy, Python, PyTorch, Машинное обучение",300000
+Habr Career,.NET разработчик / Проектная работа / АУТСТАФФ,Extyl,Офис / Гибрид,".NET, C#, .NET Core, SQL",150000
+Habr Career,Продуктовый аналитик,СОГАЗ,Офис / Гибрид,"SQL, Python",280000
+Habr Career,Middle/Senior PHP-разработчик (Laravel + высоконагруженные системы),RSD,Офис / Гибрид,"PHP, RabbitMQ, PostgreSQL, ClickHouse, PostGIS, Laravel",от 200 000 до 350 000 ₽
+Habr Career,DevOps-инженер,Bell Integrator,Офис / Гибрид,"DevOps, SRE",230000
+Habr Career,Технический продуктовый маркетолог / CRM-маркетолог,ANCOR,Офис / Гибрид,"Email маркетинг, Интернет маркетинг",200000
+Habr Career,Технический продуктовый маркетолог / CRM-маркетолог,ANCOR,Офис / Гибрид,"Интернет маркетинг, Работа в команде",250000
+Habr Career,Старший Java/Kotlin разработчик,МТС Банк,Офис / Гибрид,"Kotlin, Spring Boot, Java, SQL, Apache Kafka",220000
+Habr Career,Лидер продукта/СРО цифровых витрин Yota,МегаФон,Офис / Гибрид,Управление продуктами,280000
+Habr Career,Архитектор по обеспечению цифровых инноваций (LLM),МегаФон,Офис / Гибрид,LLM,310000
+Habr Career,Аналитик КХД,Bell Integrator,Офис / Гибрид,"SQL, Python, ETL, DWH",200000
+Habr Career,"Python Developer (AI,ML Москва)",Bell Integrator,Офис / Гибрид,"Python, LLM, LangChain",160000
+Habr Career,Младший growth-маркетолог,ANCOR,Офис / Гибрид,"Работа в команде, Информационные технологии",220000
+Habr Career,Backend-разработчик php (yii2),ТТК Диджитал,Офис / Гибрид,"PHP, Высоконагруженные системы, ООП, PostgreSQL, Oracle, Docker, Swagger, Разработка CRM, Базы данных, JavaScript",200000
+Habr Career,Лидер разработки в команду расчетных продуктов B2B,ДОМ.РФ,Офис / Гибрид,Java,80000
+Habr Career,Системный администратор по IT инфраструктуре,Лига Цифровой Экономики,Офис / Гибрид,"Nginx, Linux, Информационные технологии, Kubernetes, Apache Kafka",140000
+Habr Career,Аналитик данных ,CINIMEX,Офис / Гибрид,Разработка ТЗ,160000
+Habr Career,NLP-разработчик в Алису,Яндекс,Офис / Гибрид,NLP,310000
+Habr Career,Техлид в команду высокоточных цифровых дорожных карт,Navio,Офис / Гибрид,"Python, Алгоритмы и структуры данных, Большие данные, Машинное обучение, Deep Learning, Нейронные сети, PyTorch, Компьютерное зрение",80000
+Habr Career,Senior Java-разработчик (Integration),Лига Цифровой Экономики,Офис / Гибрид,"Spring Boot, Docker, Java, Kubernetes, Apache Kafka, Jenkins",190000
+Habr Career,"Старший продуктовый аналитик, Москва",VK,Офис / Гибрид,"SQL, Python",150000
+Habr Career,Дата инженер/Инженер по данным,Bell Integrator,Офис / Гибрид,"SQL, Python, Apache Spark, Apache Hadoop",310000
+Habr Career,Разработчик на Java/Kotlin в Финтех Яндекса,Яндекс,Офис / Гибрид,"Java, Apache Kafka, PostgreSQL, Kubernetes, Redis, Kotlin, ClickHouse, Greenplum",180000
+Habr Career,Архитектор стрима,IT_One,Офис / Гибрид,"Apache Hadoop, Apache Spark, ETL, REST, Apache Kafka, CI/CD",260000
+Habr Career,ML-инженер,АМА,Офис / Гибрид,"Python, Git, Docker, SQL",от 300 000 до 400 000 ₽
+Habr Career,Аналитик BI/SQL,СОГАЗ,Офис / Гибрид,"QlikView, SQL, Python",240000
+Habr Career,Ресерчер,Vital Partners,Офис / Гибрид,Английский язык,150000
+Habr Career,Тимлид разработки в команду DWH,Авито,Офис / Гибрид,"Java, Apache Flink, Apache Kafka, DWH, Python, Kubernetes",от 500 000 ₽
+Habr Career,1С Аналитик,Aston,Офис / Гибрид,"1C: ERP, Высоконагруженные системы",100000
+Habr Career,Machine learning Engineer,Джетлин,Офис / Гибрид,"Kubernetes, Apache Airflow, Redis, Prometheus, LLM, NLP, A/B тестирование, Python",100000
+Habr Career,Платформенный SRE,Cloud.ru,Офис / Гибрид,CI/CD,80000
+Habr Career, .Net Developer,Aston,Офис / Гибрид,"Apache Kafka, Microsoft SQL Server, ASP.NET WEB API, .NET",120000
+Habr Career,BI Developer/BI разработчик,Aston,Офис / Гибрид,"SQL, Базы данных, Python, Pandas, Tableau, PowerBI",170000
+Habr Career,Java Developer (AI / GenAI),СберСпасибо,Офис / Гибрид,JavaScript,140000
+Habr Career,1C Developer,Aston,Офис / Гибрид,Разработка под 1С,от 70 000 до 104 000 ₽
+Habr Career,Solution Architect,"АстраЗенека, Россия и Евразия",Офис / Гибрид,"Docker, PostgreSQL, Redis, Kubernetes, REST",160000
+Habr Career,Golang-разработчик в команду инструментов продуктовой аналитики,Т-Банк,Офис / Гибрид,"PostgreSQL, Apache Kafka, Apache Cassandra, Prometheus, Golang, Kubernetes",140000
+Habr Career,ML Engineer,Aston,Офис / Гибрид,"Apache Kafka, Сеть хранения данных, REST, JSON, HTTP, WebSockets, RESTful API, Langgraph, Git, Docker",160000
+Habr Career, QA Automation Engineer (Python),Aston,Офис / Гибрид,"Python, Apache Kafka, Apache JMeter",150000
+Habr Career,Product Manager (Сегменты),СберЗдоровье,Офис / Гибрид,Проведение исследований,190000
+Habr Career,Аналитик,True Engineering,Офис / Гибрид,"SQL, PostgreSQL, Системный анализ, Бизнес аналитика, BPMN, UML, Анализ требований, ER-диаграммы",90000
+Habr Career,Senior AppSec-инженер,Золотое Яблоко,Офис / Гибрид,"OWASP, Тестирование на проникновение, Burp Suite",80000
+Habr Career,ML-инженер,ГНИВЦ,Офис / Гибрид,"Git, PostgreSQL, Python",230000
+Habr Career, Performance Engineer,Aston,Офис / Гибрид,"Apache JMeter, Linux",300000
+Habr Career,Solutions Architect,Aston,Офис / Гибрид,"Микросервисная архитектура, ArchiMate, Высоконагруженные системы, REST, Apache Kafka, RabbitMQ, SOAP, Java",300000
+Habr Career,"AI application security engineer, middle+/senior",Контур,Офис / Гибрид,"LLM, Linux",310000
+Habr Career,CTO «Интерактивные AI-сервисы»,СберЗдоровье,Офис / Гибрид,"RnD, LLM, Agentic systems ",120000
